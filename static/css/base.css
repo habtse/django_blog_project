@@ -15,17 +15,13 @@ header h1 a:hover {
 }
 
 .post-entry {
-    display: flex;
     border: 1px solid grey;
     border-radius: 10px;
     width: 400px;
 }
 
-.post-entry h2 {
-    padding: 50px;
-}
+.post-entry h2 {}
 
 .post-entry h2 a {
     color: aqua;
-    padding: 50px;
 }
